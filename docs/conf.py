@@ -1,5 +1,5 @@
-project = '-'
-author = 'Your Name'
+project = 'wow tv sign in account'
+author = 'Denial'
 release = '1.0'
  
 extensions = []
